@@ -1,3 +1,10 @@
+
+# Projeto Ursinhos Carsinhosos (Care Bears)
+- Este é o frontend que consome a API dos ursinhos carinhosos 
+  
+# API consumida:
+- https://api-ursinhos-carinhosos.herokuapp.com/ursinhos/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +75,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### `npm install react-bootstrap bootstrap@5.1.3` instale para usar o Bootstrap React
+
+### As imagens foram armazenadas num servirdor web gratuito:
+- https://imgbb.com/logout

@@ -1,0 +1,66 @@
+body {
+  overflow-x: hidden !important;
+  min-height: 100vh;
+}
+
+body {
+  background: rgba(0, 0, 0, 0.65) url("./../../assets/background_fullhd.jpg") no-repeat center center;
+  background-size: cover;
+  z-index: 1;
+}
+
+.header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.main {
+  width: 100vw;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.rowMain {
+  width: 80vw;
+}
+
+.card {
+  text-align: center;
+  min-height: 318px;
+}
+
+.containerButtonVerMais {
+  width: 100vw;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding: 40px;
+}
+
+.buttonVerMais {
+  padding: 0.7rem 1rem;
+  border-radius: 2rem;
+  background-color: #00b0ff;
+  font-weight: bold;
+  color: #fff;
+  border: 2px solid #fff;
+}
+
+.buttonVerMais:hover {
+  background-color: #fff;
+  color: #00b0ff;
+  font-weight: bold;
+  border: 2px solid #00b0ff;
+}
+/*# sourceMappingURL=styles.module.css.map */
