@@ -1,9 +1,26 @@
 
-# Projeto Ursinhos Carsinhosos (Care Bears)
-- Este é o frontend que consome a API dos ursinhos carinhosos 
+# 🐻 Projeto Ursinhos carinhosos/Care Bears
+- Este é o frontend que consome a API dos Ursinhos Carinhosos 
   
-# API consumida:
+# 🐻 API consumida:
 - https://api-ursinhos-carinhosos.herokuapp.com/ursinhos/
+
+# 🐻 Tecnologias utilizadas
+- ReactJs
+- Html5, Css3
+- Sass
+- React-Bootstrap
+- Responsively App (teste de responsividade)
+- Express
+
+## 😊 Autor
+- **Pedro Canabrava**
+
+## ✔️ Deploy no Heroku
+- **https://frontend-ursinhos-carinhosos.herokuapp.com/**
+
+
+
 
 # Getting Started with Create React App
 
