@@ -79,7 +79,7 @@ const Home = () => {
                             <Card className={styles.card} border="primary">
                                 <Card.Body>
                                     <Card.Title className={styles.cardTitle}>{urso.nome}</Card.Title>
-                                    <img src={urso.imagem} className="img-fluid" alt="Ursinho carinhoso" />
+                                    <img src={urso.imagem} alt="Ursinho carinhoso" height='190px' width='auto' />
                                 </Card.Body>
                             </Card>
                         </Col>

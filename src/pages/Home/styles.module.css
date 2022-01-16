@@ -51,16 +51,16 @@ body {
 .buttonVerMais {
   padding: 0.7rem 1rem;
   border-radius: 2rem;
-  background-color: #00b0ff;
+  background-color: blue;
   font-weight: bold;
-  color: #fff;
-  border: 2px solid #fff;
+  color: orange;
+  border: 2px solid orange;
 }
 
 .buttonVerMais:hover {
-  background-color: #fff;
-  color: #00b0ff;
+  background-color: orange;
+  color: blue;
   font-weight: bold;
-  border: 2px solid #00b0ff;
+  border: 2px solid blue;
 }
 /*# sourceMappingURL=styles.module.css.map */
