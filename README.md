@@ -92,11 +92,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### npm i compression --save
 
-body{
-    background: rgba(0, 0, 0, 0.65) url("./../../assets/background_fullhd.webp") no-repeat center center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    z-index: 1;
-}
