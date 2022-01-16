@@ -82,4 +82,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### As imagens foram armazenadas num servirdor web gratuito:
 - https://imgbb.com/logout
 
+### Use https://convertio.co/pt/, para converter imagens
+
 ### server -s build, para rodar o projeto  em produção
