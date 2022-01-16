@@ -1,3 +1,4 @@
+import 'bootstrap/dist/css/bootstrap.min.css';
 import React, { lazy, Suspense } from 'react';
 
 const HomeComponent = lazy(() => import('./pages/Home'));
