@@ -87,3 +87,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### instala o npm install -g serve, e depois roda server -s build, para ver o projeto  em produção
 
 ### npm install express --save
+
+### npm install --save path, npm install express-favicon --save
