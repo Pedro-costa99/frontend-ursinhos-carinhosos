@@ -84,4 +84,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Use https://convertio.co/pt/, para converter imagens
 
-### server -s build, para rodar o projeto  em produção
+### instala o npm install -g serve, e depois roda server -s build, para ver o projeto  em produção
