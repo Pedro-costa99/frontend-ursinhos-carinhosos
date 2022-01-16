@@ -1,9 +1,7 @@
 import React, { lazy, Suspense } from 'react';
-import './App.css';
-// import Home from './pages/Home';
 
 const HomeComponent = lazy(() => import('./pages/Home'));
-const SearchComponent = lazy(() => import('./components/Search'));
+
 
 
 const renderLoader = () => <p>Carregando...</p>;

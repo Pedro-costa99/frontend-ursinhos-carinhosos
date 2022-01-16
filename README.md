@@ -89,3 +89,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### npm install express --save
 
 ### npm install --save path, npm install express-favicon --save
+
+### npm i compression --save

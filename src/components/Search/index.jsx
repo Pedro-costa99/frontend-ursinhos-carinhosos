@@ -10,8 +10,7 @@ const Search = ({ onSearch }) => {
     return (
         <div style={{ display: 'flex', justifyContent: 'center', padding: '20px' }}>
             <input
-                type="text"
-                // className="form-control mt-4"            
+                type="text"                   
                 style={{ width: "80%", padding: '10px', fontSize: '2rem' }}
                 placeholder="Pesquisar"
                 value={search}

@@ -3,14 +3,14 @@ body{
     min-height: 100vh;
 }
 
-// body{
-//     background: rgba(0, 0, 0, 0.65) url("./../../assets/background_fullhd.webp") no-repeat center center;
-//     -webkit-background-size: cover;
-//     -moz-background-size: cover;
-//     -o-background-size: cover;
-//     background-size: cover;
-//     z-index: 1;
-// }
+body{
+    background: rgba(0, 0, 0, 0.65) url("./../../assets/background_fullhd.webp") no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    z-index: 1;
+}
 
 .header{
     display: flex;
