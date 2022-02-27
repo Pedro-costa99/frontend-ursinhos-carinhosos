@@ -25,7 +25,7 @@
 # Ursinhos carinhosos mobile
 ![Clone Satellitus na tela de um celular](https://github.com/Pedro-costa99/frontend-ursinhos-carinhosos/blob/main/src/assets/screencapture-mobile.png)
 # Ursinhos carinhosos PC
-![Clone Satellitus na tela de um computador](https://github.com/Pedro-costa99/frontend-ursinhos-carinhosos/blob/main/src/assets/screencapture-1366x768.png)
+![Clone Satellitus na tela de um computador](https://github.com/Pedro-costa99/frontend-ursinhos-carinhosos/blob/main/src/assets/screencapture-1920x1080.png)
 
 
 
